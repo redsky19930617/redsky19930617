@@ -31,7 +31,6 @@ I'm a **Mobile App Developer** focused on building secure, performant, and user-
 - 📸 Enhanced camera capabilities using **react-native-vision-camera**
 - 🧠 Developing **BreakFree**: A wellness app to help users disconnect digitally
 - 💼 Open to: Freelance, collaborations, privacy-tech projects
-- 📫 Reach me: **your.email@example.com** | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 <br/>
 
