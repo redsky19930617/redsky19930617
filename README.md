@@ -31,7 +31,6 @@ I'm a **Mobile App Developer** who loves crafting beautiful, high-performance ap
 - 🧩 Currently working on: **Cross-platform apps with Flutter/React Native**
 - 🌱 Learning: **Jetpack Compose, SwiftUI, App Architecture (MVVM, Clean Architecture)**
 - 💼 Open to: **Freelance opportunities | Collaborations | Open Source**
-- 📫 Reach me: **your.email@example.com** | [LinkedIn](https://linkedin.com/in/yourprofile)
 - ⚡ Fun fact: I test every app on *at least* 3 devices before release 😅
 
 <br/>
