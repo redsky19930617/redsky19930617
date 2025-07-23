@@ -72,15 +72,6 @@ I'm a **Mobile App Developer** focused on building secure, performant, and user-
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redsky19930617&show_icons=true&theme=radical&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redsky19930617&layout=compact&theme=radical&hide_border=false" width="48%" />
-</div>
-
-<br/>
-
 ## 📂 My Projects
 
 ### 🔐 [FaceBlurApp](https://github.com/redsky19930617/FaceBlurApp)
